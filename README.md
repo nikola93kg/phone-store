@@ -1,3 +1,7 @@
+<img src="https://i.ibb.co/dMDyMG2/Screenshot-1.png" />
+
+https://nikola93kg.github.io/phone-store/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
