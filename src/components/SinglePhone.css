@@ -1,0 +1,9 @@
+.phone-container h3 {
+  font-size: 2em;
+}
+.phone-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}

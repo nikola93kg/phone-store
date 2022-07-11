@@ -1,0 +1,16 @@
+main {
+  margin: 0 auto;
+  width: 70%;
+  padding: 3rem;
+  padding-top: 2rem;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px,
+    rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  background-color: #f5fbfc;
+  background-image: linear-gradient(180deg, #fff9, #fff9),
+    url(https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg);
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}

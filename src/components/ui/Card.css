@@ -1,0 +1,28 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  padding: 10px;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  border-radius: 5px;
+  background-color: #fff9;
+}
+.card-buttons button {
+  margin: 10px 10px;
+}
+.content {
+  padding-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.content a {
+  text-decoration: none;
+  color: rgb(32, 154, 224);
+  color: #1f768a;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+  font-size: 1.1rem;
+}
