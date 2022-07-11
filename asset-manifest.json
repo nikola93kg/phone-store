@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/phone-store/static/css/main.ccaffcdb.css",
+    "main.js": "/phone-store/static/js/main.a241c4dd.js",
+    "static/media/logo.webp": "/phone-store/static/media/logo.04ea777e1b3372f5f1ee.webp",
+    "static/media/loading.svg": "/phone-store/static/media/loading.93832c96578971b38b2712804dc9efc8.svg",
+    "index.html": "/phone-store/index.html",
+    "main.ccaffcdb.css.map": "/phone-store/static/css/main.ccaffcdb.css.map",
+    "main.a241c4dd.js.map": "/phone-store/static/js/main.a241c4dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccaffcdb.css",
+    "static/js/main.a241c4dd.js"
+  ]
+}
